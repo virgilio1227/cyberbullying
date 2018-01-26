@@ -1,0 +1,39 @@
+body{background-color:#432268;
+    background-image:url("https://orig00.deviantart.net/27c6/f/2017/285/0/f/neon_sunset_4k_by_axiomdesign-dbqddb9.png");
+    background-size:cover;
+}
+h1{color:red}
+h2{text-align:center} 
+h1{text-align:center}
+div{
+    border-style:solid;
+}
+div{
+    border-style:solid;
+    background-color: white;
+}
+div{
+    padding:5px;
+    margin:200px;
+}
+div{
+    border-style: dotted dashed solid double;
+}
+div{
+    margin-top: 5px;
+}
+
+#navbar{
+    background-color: pink;
+    height:50px;
+    padding-right:30px;
+    border-style:none;
+}
+.navlink{
+             display: inline;
+             }
+.navlink a{
+    color: dotted;
+    float: right;
+    padding: 10px;
+}
